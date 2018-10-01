@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            background-color: skyblue;
+        }
+
+        .container {
+            margin: 50px auto;
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .container div {
+            width: 300px;
+            height: 300px;
+            position: absolute;
+            top: 0;
+            left: 0;
+            transition: all linear 2s;
+            backface-visibility: hidden;
+        }
+
+        .force {
+            background: url("../imgs/wallet.png");
+            background-position: 0 -1995px;
+        }
+
+        .container:hover .force {
+            transform: rotateY(180deg);
+        }
+
+        .container:hover .back {
+            transform: rotateY(360deg);
+        }
+
+        .back {
+            background: url("../imgs/wallet.png");
+            background-position: -300px -1995px;
+            transform: rotateY(180deg);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="force"></div>
+        <div class="back"></div>
+    </div>
+</body>
+</html>
