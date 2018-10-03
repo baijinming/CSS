@@ -2,52 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d7c4f2-9ad4-4f8a-8afe-5858fa8c1a5e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方体/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方体/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方体/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方体/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方体/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方体/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方形/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方形/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方形/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方形/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方形/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D正方形/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D焦点图/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D焦点图/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D焦点图/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D焦点图/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D焦点图/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D焦点图/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D焦点图/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D焦点图/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3D焦点图/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/wallet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/大转盘素材/pointer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/大转盘素材/turntable-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/大转盘素材/turntable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/形变中心点/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/扑克牌/fengjie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/扑克牌/fengzelina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/扑克牌/liuyifei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/扑克牌/puke.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/扑克牌/xiaoxiannv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/无缝轮播图/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/无缝轮播图/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/无缝轮播图/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/无缝轮播图/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/游戏王/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/游戏王/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/游戏王/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/游戏王/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/游戏王/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/游戏王/back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/游戏王/king.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小案例/扇子案例.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小案例/百度钱包翻转.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practise.html" beforeDir="false" afterPath="$PROJECT_DIR$/practise.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小案例/css选项卡.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小案例/翻牌案例.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/小案例/扇子案例.html" beforeDir="false" afterPath="$PROJECT_DIR$/小案例/扇子案例.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,11 +18,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="practise.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practise.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state>
               <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
             </state>
           </provider>
@@ -73,24 +31,37 @@
       <file leaf-file-name="百度钱包翻转.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小案例/百度钱包翻转.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="-38">
               <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="扇子案例.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="扇子案例.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小案例/扇子案例.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="342">
+              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wallet.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imgs/wallet.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="翻牌案例.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/小案例/翻牌案例.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css选项卡.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/小案例/css选项卡.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -112,6 +83,8 @@
         <option value="$PROJECT_DIR$/小案例/百度钱包翻转.html" />
         <option value="$PROJECT_DIR$/扇子案例.html" />
         <option value="$PROJECT_DIR$/小案例/扇子案例.html" />
+        <option value="$PROJECT_DIR$/小案例/翻牌案例.html" />
+        <option value="$PROJECT_DIR$/小案例/css选项卡.html" />
       </list>
     </option>
   </component>
@@ -124,7 +97,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1405" />
@@ -147,6 +120,12 @@
               <item name="css3" type="b2602c69:ProjectViewProjectNode" />
               <item name="css3" type="462c0819:PsiDirectoryNode" />
               <item name="imgs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="css3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="css3" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+              <item name="扑克牌" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="css3" type="b2602c69:ProjectViewProjectNode" />
@@ -198,33 +177,34 @@
       <option name="presentableId" value="Default" />
       <updated>1538370115479</updated>
       <workItem from="1538370118701" duration="3881000" />
+      <workItem from="1538540855608" duration="10231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3881000" />
+    <option name="totallyTimeSpent" value="14112000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,25 +214,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/弹出菜单.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-641" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practise.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/wallet.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imgs/18扇子案例.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -263,10 +228,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/wallet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/小案例/扇子案例.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/弹出菜单.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-641" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/wallet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/18扇子案例.html" />
+    <entry file="file://$PROJECT_DIR$/imgs/扑克牌/fengjie.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/扑克牌/fengzelina.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/扑克牌/liuyifei.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/扑克牌/puke.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/扑克牌/xiaoxiannv.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/扇子案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="244" column="16" selection-start-line="244" selection-start-column="16" selection-end-line="244" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/百度钱包翻转.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/翻牌案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/css选项卡.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>

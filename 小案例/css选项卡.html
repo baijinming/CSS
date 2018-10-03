@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .container {
+            width: 450px;
+            height: 500px;
+            border: 1px solid #888;
+            border-radius: 6px;
+            margin: 50px auto;
+        }
+
+        input {
+            display: none;
+        }
+
+        .box {
+            font-size: 20px;
+            height: 50px;
+            line-height: 50px;
+            display: flex;
+            color: #666
+        }
+
+        label {
+            width: 150px;
+            height: 50px;
+            text-align: center;
+        }
+
+        ul {
+            list-style: none;
+            padding: 20px;
+        }
+        ul li{
+            display: none;
+        }
+
+        .slide {
+            height: 3px;
+            width: 80px;
+            background-color: #409eff;
+            transition: all linear 0.2s;
+        }
+        
+        #first:checked ~ .box label:nth-child(1) {
+            color: #409eff;
+        }
+        #second:checked ~ .box label:nth-child(2) {
+            color: #409eff;
+        }
+        #three:checked ~ .box label:nth-child(3) {
+            color: #409eff;
+        }
+
+        #first:checked ~ ul li:nth-child(1){
+            display: block;
+        }
+        #second:checked ~ ul li:nth-child(2){
+            display: block;
+        }
+        #three:checked ~ ul li:nth-child(3){
+            display: block;
+        }
+
+        #first:checked ~.transition .slide {
+            margin-left: 35px;
+        }
+        #second:checked ~.transition .slide {
+            margin-left: 185px;
+        }
+        #three:checked ~.transition .slide {
+            margin-left: 335px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <input type="radio" name="tab" id="first" checked>
+        <input type="radio" name="tab" id="second">
+        <input type="radio" name="tab" id="three">
+        <div class="box">
+            <label for="first">
+                首页
+            </label>
+            <label for="second">
+                详情
+            </label>
+            <label for="three">
+                关于
+            </label>
+        </div>
+        <div class="transition">
+            <div class="slide"></div>
+        </div>
+        <ul>
+            <li>我是首页的内容</li>
+            <li>我是详情页的内容</li>
+            <li>我是关于页的内容</li>
+        </ul>
+    </div>
+</body>
+</html>
