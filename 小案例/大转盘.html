@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .container {
+            margin: 20px auto;
+            width: 650px;
+            height: 600px;
+            background: url("../imgs/大转盘素材/turntable-bg.jpg");
+            position: relative;
+        }
+
+        #disk {
+            width: 450px;
+            height: 450px;
+            position: absolute;
+            top: 59px;
+            left: 118px;
+            background: url("../imgs/大转盘素材/turntable.png");
+            transition: all ease 3s;
+        }
+
+        #pointer {
+            position: absolute;
+            left: 252px;
+            top: 161px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="disk">
+        </div>
+        <img id="pointer" src="../imgs/大转盘素材/pointer.png"/>
+    </div>
+</body>
+<script>
+    let disk = document.getElementById('disk')
+    let pointer = document.getElementById('pointer')
+    let num = 0
+    pointer.onclick = () => {
+        num +=720 + Math.random()*360
+        disk.style.transform = `rotate(${num}deg)`
+    }
+</script>
+</html>

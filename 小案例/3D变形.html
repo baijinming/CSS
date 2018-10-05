@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            width: 500px;
+            height: 280px;
+            border: 1px solid #000;
+            margin: 50px auto;
+            transform-style: preserve-3d;
+            perspective: 500px;
+        }
+        img {
+            display: block;
+            transform-origin: center top;
+            transition: all ease 2s;
+        }
+        .container:hover img {
+            transform: rotateX(90deg);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="../imgs/3D焦点图/3.jpg" alt="">
+    </div>
+</body>
+</html>

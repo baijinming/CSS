@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d7c4f2-9ad4-4f8a-8afe-5858fa8c1a5e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/小案例/css选项卡.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/小案例/翻牌案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小案例/3D变形.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小案例/3D焦点图.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小案例/大转盘.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小案例/无缝轮播图.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/小案例/扇子案例.html" beforeDir="false" afterPath="$PROJECT_DIR$/小案例/扇子案例.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,29 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="practise.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practise.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="百度钱包翻转.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小案例/百度钱包翻转.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
+            <state relative-caret-position="399">
               <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="扇子案例.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/小案例/扇子案例.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -55,13 +38,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css选项卡.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="css选项卡.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小案例/css选项卡.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="171">
+              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="无缝轮播图.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/小案例/无缝轮播图.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1240">
+              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="大转盘.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/小案例/大转盘.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="46" column="15" lean-forward="true" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3D变形.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/小案例/3D变形.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3D焦点图.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/小案例/3D焦点图.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pointer.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgs/大转盘素材/pointer.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="turntable.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgs/大转盘素材/turntable.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="turntable-bg.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imgs/大转盘素材/turntable-bg.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -85,6 +119,10 @@
         <option value="$PROJECT_DIR$/小案例/扇子案例.html" />
         <option value="$PROJECT_DIR$/小案例/翻牌案例.html" />
         <option value="$PROJECT_DIR$/小案例/css选项卡.html" />
+        <option value="$PROJECT_DIR$/小案例/无缝轮播图.html" />
+        <option value="$PROJECT_DIR$/小案例/大转盘.html" />
+        <option value="$PROJECT_DIR$/小案例/3D变形.html" />
+        <option value="$PROJECT_DIR$/小案例/3D焦点图.html" />
       </list>
     </option>
   </component>
@@ -125,7 +163,7 @@
               <item name="css3" type="b2602c69:ProjectViewProjectNode" />
               <item name="css3" type="462c0819:PsiDirectoryNode" />
               <item name="imgs" type="462c0819:PsiDirectoryNode" />
-              <item name="扑克牌" type="462c0819:PsiDirectoryNode" />
+              <item name="3D焦点图" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="css3" type="b2602c69:ProjectViewProjectNode" />
@@ -178,11 +216,12 @@
       <updated>1538370115479</updated>
       <workItem from="1538370118701" duration="3881000" />
       <workItem from="1538540855608" duration="10231000" />
+      <workItem from="1538710188688" duration="5856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14112000" />
+    <option name="totallyTimeSpent" value="19968000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -228,6 +267,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/扇子案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/翻牌案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/css选项卡.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/百度钱包翻转.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/imgs/wallet.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -245,7 +319,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practise.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="437">
           <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
         </state>
       </provider>
@@ -285,7 +359,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/小案例/百度钱包翻转.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
+        <state relative-caret-position="399">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
         </state>
       </provider>
@@ -299,8 +373,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/小案例/css选项卡.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="171">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/无缝轮播图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/大转盘素材/pointer.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/大转盘素材/turntable.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/大转盘素材/turntable-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/大转盘.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="46" column="15" lean-forward="true" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/3D变形.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小案例/3D焦点图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .container {
+            background-color: #000;
+            width: 500px;
+            height: 200px;
+            margin: 50px auto;
+            border: 1px solid #666;
+            overflow: hidden;
+        }
+
+        ul {
+            width: 2000px;
+            height: 200px;
+            animation: go 3s linear infinite;
+        }
+
+        li {
+            width: 300px;
+            height: 200px;
+            float: left;
+            list-style: none;
+        }
+
+        .container:hover ul {
+            animation-play-state: paused;
+        }
+
+        ul:hover li {
+            opacity: .8;
+        }
+
+        ul>li:hover {
+            opacity: 1;
+        }
+
+        @keyframes go {
+            from {
+                transform: translateX(0);
+            }
+            to {
+                transform: translateX(-1200px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <ul>
+            <li>
+                <img src="../imgs/无缝轮播图/01.jpg" alt="">
+            </li>
+            <li>
+                <img src="../imgs/无缝轮播图/02.jpg" alt="">
+            </li>
+            <li>
+                <img src="../imgs/无缝轮播图/03.jpg" alt="">
+            </li>
+            <li>
+                <img src="../imgs/无缝轮播图/04.jpg" alt="">
+            </li>
+            <li>
+                <img src="../imgs/无缝轮播图/01.jpg" alt="">
+            </li>
+            <li>
+                <img src="../imgs/无缝轮播图/02.jpg" alt="">
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
