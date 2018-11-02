@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        ul {
+            width: 400px;
+            height: 400px;
+            margin: 50px auto;
+            list-style: none;
+            transform-style: preserve-3d;
+            position: relative;
+            transition: transform 5s ease;
+        }
+        ul:hover {
+            transform: rotateX(360deg) rotateY(720deg);
+        }
+        li {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 400px;
+            height: 400px;
+        }
+        li:nth-child(1){
+            background-color: skyblue;
+            transform: translateZ(200px);
+        }
+        li:nth-child(2) {
+            background-color: yellow;
+            transform: rotateX(90deg) translateZ(200px);
+        }
+        li:nth-child(3) {
+            background-color: gold;
+            transform: rotateX(180deg) translateZ(200px);
+        }
+        li:nth-child(4) {
+            background-color: blue;
+            transform: rotateX(-90deg) translateZ(200px);
+        }
+        li:nth-child(5) {
+            background-color: sienna;
+            transform: rotateY(90deg) translateZ(200px);
+        }
+        li:nth-child(6) {
+            background-color: slategray;
+            transform: rotateY(-90deg) translateZ(200px);
+        }
+
+    </style>
+</head>
+<body>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</body>
+</html>

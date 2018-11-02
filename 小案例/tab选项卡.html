@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 400px;
+            height: 400px;
+            margin: 0 auto;
+            background: #e9e9e9;
+        }
+        ul {
+            display: flex;
+            justify-content: space-between;
+            list-style: none;
+            text-align: center;
+            padding: 10px 50px;
+        }
+        li {
+            width: 100px;
+            cursor: pointer;
+            user-select: none;
+        }
+        .check {
+            color: yellow;
+            background-color: skyblue;
+        }
+        .content {
+            padding: 0 10px;
+        }
+        p {
+            display: none;
+        }
+        .pcheck {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <ul>
+            <li class="check">首页</li>
+            <li>新闻</li>
+            <li>网易</li>
+        </ul>
+        <div class="content">
+            <p class="pcheck">在策展人王南溟看来，摄影除了纪实属性外同时具有档案的价值，但以往的摄影有一种向绘画美学靠拢的倾向而影响了摄影镜头自己的功能。随着摄影理论的再次发展，镜头与真实记录这样的功能又被强调出来，将档案视角引入摄影创作就代表了这样的摄影新方法论的建立。</p>
+            <p>摄影除了纪实属性外同时具有档案的价值，但以往的摄影有一种向绘画美学靠拢的倾向而影响了摄影镜头自己的功能。随着摄影理论的再次发展，镜头与真实记录这样的功能又被强调出来，将档案视角引入摄影创作就代表了这样的摄影新方法论的建立。</p>
+            <p>但以往的摄影有一种向绘画美学靠拢的倾向而影响了摄影镜头自己的功能。随着摄影理论的再次发展，镜头与真实记录这样的功能又被强调出来，将档案视角引入摄影创作就代表了这样的摄影新方法论的建立。</p>
+        </div>
+    </div>
+</body>
+<script>
+    let lis = document.querySelectorAll('li');
+    let p = document.querySelectorAll('p');
+    for(let i = 0; i<lis.length; i++){
+        lis[i].onclick = () => {
+            for(let j = 0; j<lis.length; j++){
+                lis[j].classList.remove('check');
+                p[j].classList.remove('pcheck')
+            }
+            lis[i].classList.add('check');
+            p[i].classList.add('pcheck')
+        }
+    }
+</script>
+</html>
